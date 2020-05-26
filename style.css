@@ -1,0 +1,34 @@
+GtkButton {
+	background-image: none;
+    background: none;
+}
+
+#default
+{
+	background-image: none;
+	background: white;
+}
+
+#start
+{
+	background-image: none;
+	background: green;
+}
+
+#end
+{
+	background-image: none;
+	background: red;
+}
+
+#obstacle
+{
+	background-image: none;
+	background: grey;
+}
+
+#path
+{
+	background-image: none;
+	background: blue;
+}
