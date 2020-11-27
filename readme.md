@@ -2,7 +2,7 @@
 
 Visualized interactive A* Pathfinding app
 
-![](https://www.ilyatsykunov.com/block3/astarpathfinding-video.webm)
+[![SC2 Video](https://www.ilyatsykunov.com/block3/astarpathfinding-video.webm "Click to watch the video showcasing the application")
 
 ## Getting started
 
